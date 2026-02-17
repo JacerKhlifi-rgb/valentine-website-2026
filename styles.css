@@ -316,3 +316,7 @@ h2 {
     transform: scale(1.05);
     background: var(--secondary-color);
 } 
+
+.spotify-player {
+    margin: 20px 0;
+} 
